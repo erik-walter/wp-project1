@@ -1,4 +1,4 @@
-\# WordPress Projekt
+# WordPress Projekt
 
 Dieses Projekt enthält ein WordPress Projekt, das über Docker läuft. 
 
