@@ -24,4 +24,8 @@ docker exec -i wordpress-db /usr/bin/mysql -u wpuser --password=wppasswort wordp
 
 In Kurz: Klonen → docker-compose up -d → SQL-Dump importieren → Browser öffnen
 
+Login-Daten: 
+E-Mail: abonnent@test.local
+Passwort: wp-project1Passwort
+
 
