@@ -1,0 +1,94 @@
+post_title,post_content,gericht
+Spaghetti Carbonara,"Spaghetti mit Speck, Ei und Parmesan",Hauptspeise
+Apfelkuchen,Saftiger Apfelkuchen mit Zimt und Zucker,Dessert
+Bruschetta,"Geröstetes Brot mit Tomaten, Knoblauch und Basilikum.",Vorspeise
+Tomatensuppe,"Cremige Suppe aus frischen Tomaten und Kräutern.",Vorspeise
+Caprese-Salat,"Frische Tomaten mit Mozzarella und Basilikum.",Vorspeise
+Caesar Salad,"Römersalat mit Hähnchen, Parmesan und Croutons.",Vorspeise
+Frühlingsrollen,"Knusprige Rollen gefüllt mit Gemüse und Glasnudeln.",Vorspeise
+Lasagne,"Schichtauflauf mit Nudelplatten, Fleischsauce und Käse.",Hauptspeise
+Spaghetti Carbonara,"Spaghetti mit Speck, Ei und Parmesan.",Hauptspeise
+Paella,"Reisgericht mit Meeresfrüchten, Huhn und Safran.",Hauptspeise
+Rinderbraten,"Zarter Braten mit Sauce und Beilagen.",Hauptspeise
+Gemüsecurry,"Aromatisches Curry mit frischem Gemüse und Kokosmilch.",Hauptspeise
+Hähnchen Tikka Masala,"Indisches Curry mit gewürztem Hähnchen.",Hauptspeise
+Quiche Lorraine,"Herzhafte Tarte mit Speck, Ei und Käse.",Hauptspeise
+Ratatouille,"Gemüseauflauf aus Zucchini, Aubergine und Tomaten.",Hauptspeise
+Pizza Margherita,"Pizza mit Tomaten, Mozzarella und Basilikum.",Hauptspeise
+Fischfilet mit Gemüse,"Gedünstetes Fischfilet mit saisonalem Gemüse.",Hauptspeise
+Tiramisu,"Italienisches Dessert mit Mascarpone und Espresso.",Dessert
+Panna Cotta,"Cremiges Dessert aus Sahne und Vanille.",Dessert
+Obstsalat,"Frischer Salat aus saisonalem Obst.",Dessert
+Schokoladenmousse,"Luftige Mousse aus dunkler Schokolade.",Dessert
+Crème Brûlée,"Vanillepudding mit karamellisierter Zuckerkruste.",Dessert
+Apfelstrudel,"Warmer Strudel gefüllt mit Äpfeln und Zimt.",Dessert
+Käsekuchen,"Cremiger Kuchen mit Frischkäsefüllung.",Dessert
+Brownies,"Schokoladige Riegel mit Nüssen.",Dessert
+Eclairs,"Gefüllte Brandteigstücke mit Schokolade.",Dessert
+Mousse au Chocolat,"Leichte Schokoladenmousse.",Dessert
+Gazpacho,"Kaltes Tomatensüppchen aus Spanien.",Vorspeise
+Sushi,"Reisrollen mit Fisch und Gemüse.",Vorspeise
+Hummus,"Kichererbsenpüree mit Tahini und Olivenöl.",Vorspeise
+Frittata,"Italienisches Omelett mit Gemüse.",Vorspeise
+Salat Niçoise,"Salat mit Thunfisch, Ei, Oliven und Kartoffeln.",Vorspeise
+Gulaschsuppe,"Würzige Suppe mit Rindfleisch und Paprika.",Vorspeise
+Tom Yam,"Thailändische scharfe Suppe mit Garnelen.",Vorspeise
+Mozzarella Sticks,"Panierte Mozzarella-Sticks, frittiert.",Vorspeise
+Falafel,"Kichererbsenbällchen, frittiert.",Vorspeise
+Pad Thai,"Gebratene Reisnudeln mit Ei, Tofu und Gemüse.",Hauptspeise
+Beef Stroganoff,"Rindfleischstreifen in Sahnesauce.",Hauptspeise
+Currywurst,"Deutsche Wurst mit Currysauce.",Hauptspeise
+Shepherd's Pie,"Hackfleischauflauf mit Kartoffelpüree.",Hauptspeise
+Chili con Carne,"Würziges Rindfleischgericht mit Bohnen.",Hauptspeise
+Fajitas,"Mexikanisches Gericht mit Fleisch und Gemüse.",Hauptspeise
+Boeuf Bourguignon,"Französischer Rindereintopf mit Rotwein.",Hauptspeise
+Lasagne al Forno,"Überbackene Nudelplatten mit Bolognesesauce.",Hauptspeise
+Hühnerfrikassee,"Hähnchen in cremiger Sauce mit Gemüse.",Hauptspeise
+Paella Valenciana,"Reisgericht mit Huhn, Kaninchen und Gemüse.",Hauptspeise
+Ramen,"Japanische Nudelsuppe mit Fleisch und Ei.",Hauptspeise
+Risotto,"Cremiger Reis mit Parmesan und Gemüse.",Hauptspeise
+Minestrone,"Italienische Gemüsesuppe mit Pasta.",Hauptspeise
+Pasta Alfredo,"Nudeln mit Sahnesauce und Parmesan.",Hauptspeise
+Spaghetti Bolognese,"Nudeln mit Hackfleischsauce.",Hauptspeise
+Pavlova,"Baiser-Dessert mit Früchten.",Dessert
+Crepes,"Dünne Pfannkuchen gefüllt mit Süßem.",Dessert
+Baklava,"Süßes Gebäck mit Nüssen und Honig.",Dessert
+Mille-feuille,"Blätterteig-Dessert mit Cremefüllung.",Dessert
+Profiteroles,"Gefüllte Brandteigkugeln mit Schokolade.",Dessert
+Cheesecake,"Klassischer Käsekuchen mit Keksboden.",Dessert
+Cupcakes,"Kleine Kuchen mit Topping.",Dessert
+Macarons,"Bunte französische Baisergebäcke.",Dessert
+Eton Mess,"Beeren, Baiser und Sahne vermischt.",Dessert
+Trifle,"Schichtdessert mit Kuchen, Creme und Früchten.",Dessert
+Clafoutis,"Französischer Kirschkuchen mit Ei.",Dessert
+Sauerbraten,"Mariniertes Rindfleisch mit Rotkohl und Klößen.",Hauptspeise
+Schweinebraten,"Traditioneller Braten mit Kruste.",Hauptspeise
+Gebackene Lachsfilets,"Lachsfilets aus dem Ofen mit Kräutern.",Hauptspeise
+Kichererbsen-Eintopf,"Würziger Eintopf mit Kichererbsen und Gemüse.",Hauptspeise
+Gemüsepfanne,"Gebratenes Gemüse mit Gewürzen.",Hauptspeise
+Hühnchen-Cacciatore,"Italienisches Huhn mit Tomaten und Kräutern.",Hauptspeise
+Linsensuppe,"Herzhafte Suppe mit Linsen und Gemüse.",Vorspeise
+Gazpacho Andaluz,"Kaltes Tomatensüppchen mit Paprika und Gurke.",Vorspeise
+Ceviche,"Roh marinierter Fisch mit Limette und Koriander.",Vorspeise
+Antipasti-Platte,"Gemischte Vorspeisen wie Oliven, Käse und Gemüse.",Vorspeise
+Carpaccio,"Rohes Rindfleisch mit Rucola und Parmesan.",Vorspeise
+Croquetas,"Spanische Kroketten mit Schinken.",Vorspeise
+Samosas,"Frittierte Teigtaschen gefüllt mit Gemüse.",Vorspeise
+Tempura,"Frittierte Gemüse- und Meeresfrüchte.",Vorspeise
+Calamari,"Frittierte Tintenfischringe.",Vorspeise
+Hühnchen-Korma,"Indisches Hühnchencurry mit Kokosmilch.",Hauptspeise
+Shakshuka,"Eier in würziger Tomatensauce.",Hauptspeise
+Moussaka,"Griechischer Auberginenauflauf mit Hackfleisch.",Hauptspeise
+Ratatouille Provençale,"Gemüseauflauf aus Südfrankreich.",Hauptspeise
+Paella de Marisco,"Reis mit Meeresfrüchten.",Hauptspeise
+Schnitzel Wiener Art,"Panierte Kalbsschnitzel.",Hauptspeise
+Gnocchi al Pesto,"Kartoffelgnocchi mit Pesto.",Hauptspeise
+Couscous mit Gemüse,"Orientalischer Weizengrieß mit Gemüse.",Hauptspeise
+Pad Kra Pao,"Thailändisches scharfes Hackfleischgericht.",Hauptspeise
+Bibimbap,"Koreanisches Reisgericht mit Gemüse und Ei.",Hauptspeise
+Kimchi Jjigae,"Koreanischer Eintopf mit Kimchi.",Hauptspeise
+Rinderfilet mit Kräuterkruste,"Gebratenes Filet mit Kräutermantel.",Hauptspeise
+Hummer Thermidor,"Gebackener Hummer in Sauce.",Hauptspeise
+Spaghetti Pesto,"Nudeln mit Basilikumpesto.",Hauptspeise
+Gnocchi Sorrentina,"Gnocchi mit Tomatensauce und Mozzarella.",Hauptspeise
+Fettuccine al Limone,"Nudeln mit Zitronensahnesauce.",Hauptspeise
