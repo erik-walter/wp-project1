@@ -4,15 +4,3 @@ Author: Erik Walter
 Version: 1.0
 */
 
-.rezepte-list {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-}
-
-.rezept-item {
-    border: 1px solid #ccc;
-    padding: 15px;
-    width: 30%;
-    box-sizing: border-box;
-}
